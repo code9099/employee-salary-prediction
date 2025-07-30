@@ -21,4 +21,4 @@ A machine learning web application that predicts employee salaries based on vari
 - Matplotlib/Seaborn
 
 ## Author
-Created as a machine learning portfolio project
+Created by Gaurav Pawar as a machine learning portfolio project and will definately enhance its features in future.
