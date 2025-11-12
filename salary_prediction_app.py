@@ -299,4 +299,3 @@ def data_analysis_page():
 if __name__ == "__main__":
     main()
 
-#i know this code i need to write more peacefully
